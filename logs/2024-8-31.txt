@@ -1,0 +1,4 @@
+[2024-8-31 15:51:31] El socket esta escuchando en el puerto: 13
+
+[2024-8-31 15:51:44] Se ha aceptado una conexion desde 127.0.0.1
+[2024-8-31 15:51:44] Conexion exitosa.

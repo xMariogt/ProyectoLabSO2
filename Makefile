@@ -1,4 +1,4 @@
-dependencies = lib/server_functions.c
+dependencies = lib/server_functions.c lib/log.c
 
 target: main.o
 
