@@ -4,6 +4,7 @@
 #include <unistd.h>
 #include "lib/server_functions.h"
 #include "lib/log.h"
+#include "lib/server_handle_cli.h"
 #include <errno.h>
 
 #define PORT 13
@@ -16,8 +17,11 @@ int main(){
 
     escucharfd = srv_init(PORT);
 
+    
     while (1){
         conectarfd = srv_accept_client(escucharfd);
+        srv_handle_client(conectarfd);
+
         if (conectarfd == -1)
         {   
             snprintf(msg, sizeof(msg),

@@ -7,6 +7,7 @@
 #include <stdio_ext.h>
 #include "server_functions.h"
 #include "log.h"
+#include "server_handle_cli.h"
 
 char log_message[400];
 
@@ -14,6 +15,7 @@ int srv_init(int port)
 {
     int sockfd;
     SAI servaddr;
+    
 
         if ((sockfd = socket(AF_INET, SOCK_STREAM, 0)) == -1)
     {
@@ -84,8 +86,9 @@ int srv_accept_client(int listenfd){
         printf("Se ha aceptado una conexion desde %s", inet_ntoa(clientaddr.sin_addr));
         snprintf(log_message, sizeof(log_message), 
         "Se ha aceptado una conexion desde %s", inet_ntoa(clientaddr.sin_addr));
-
         log_event(log_message);
+        
+        
         
         return connfd;
     }
