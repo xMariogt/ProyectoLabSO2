@@ -7,7 +7,7 @@
 #include "lib/server_handle_cli.h"
 #include <errno.h>
 
-#define PORT 13
+#define PORT 8080
 
 char msg[400];
 
