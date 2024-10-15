@@ -45,7 +45,7 @@ void srv_handle_client(int socket){
     }else{
 
         response.datos = get_file_contents(req.url, &response.code);
-        response.content_type = "text/html";
+        response.content_type = get_content_type(req.url);
     }
 
     //Validamos que la respuesta no venga vacia

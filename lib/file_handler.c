@@ -6,6 +6,21 @@
 
 #define BUFFERSIZE 1024
 
+typedef struct {
+    char *ext;
+    char *mimetype;
+} MimeType;
+
+
+const MimeType mimetypes[] ={
+    {"txt", "text/plain"},
+    {"html", "text/html"},
+    {"png", "image/png"},
+    {"gif", "image/gif"},
+    {"jpeg", "image/jpeg"},
+    {"css", "text/css"}
+}; 
+
 char *get_file_contents(char *url, int *httpCode){
     FILE *f;
     char *buffer = malloc(BUFFERSIZE);
@@ -60,4 +75,29 @@ char *get_file_contents(char *url, int *httpCode){
 
     *httpCode = 200;
     return content;
+}
+
+char *get_content_type(char *url){
+
+    if(url == NULL){
+        return mimetypes[0].mimetype;
+    }
+    log_event(url);
+    char *sep = strrchr(url, '.');
+
+    if(sep == NULL){
+        return mimetypes[0].mimetype;
+    }
+
+    char *ext = sep+1;
+    log_event(ext);
+    for (int i =0; i < sizeof(mimetypes)/sizeof(MimeType); i++){
+        if(strcmp(mimetypes[i].ext, ext) == 0){
+            //AGREGAR FUNCIONALIDAD PARA DEVOLVER EL MIMETYPE
+            log_event(mimetypes[i].mimetype);
+            return mimetypes[i].mimetype;
+        }
+    }
+
+    return mimetypes[0].mimetype;
 }

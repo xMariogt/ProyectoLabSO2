@@ -4,22 +4,12 @@
 
 #En otra terminal hacer la conexion
 
-	telnet localhost 13
+	telnet localhost 8080
 
 #Listar los puertos abiertos
 
 	sudo lsof -i -P -n | grep LISTEN
 
-#Para probar conexion de navegador
-	##Desde Terminal
-	curl "http://127.0.0.1:13/?message=HolaServidor"
+#Comando para ejecutar los tests
 
-	##Desde FireFox
-	buscar => about:config 
-
-	Luego buscar => network.security.ports.banned.override
-
-	Establecerlo como tipo Texto y agregar el puerto a utilizar, 13 en este caso
-	
-
-
+	locust -f tests/locust_test.py --users 100 --spawn-rate 5 --headless -H http://127.0.0.1:8080 -t 1m --csv=locust_results
