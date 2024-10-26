@@ -88,9 +88,14 @@ int srv_accept_client(int listenfd){
         "Se ha aceptado una conexion desde %s", inet_ntoa(clientaddr.sin_addr));
         log_event(log_message);
         
-        
-        
         return connfd;
+    }
+
+    if (connfd == -1){
+        snprintf(log_message, sizeof(log_message),
+        "Error en accept. Codigo: %i\n", errno);
+
+        log_error(log_message);
     }
 
     return connfd;

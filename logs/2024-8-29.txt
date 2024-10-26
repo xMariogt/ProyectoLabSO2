@@ -1,3 +1,0 @@
-[2024-8-29 10:39:51] Conexion exitosa.
-[2024-8-29 10:40:46] Conexion exitosa.
-[2024-8-29 10:55:3] Conexion exitosa.

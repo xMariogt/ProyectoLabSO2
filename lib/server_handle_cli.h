@@ -2,7 +2,7 @@
 #define SERVER_HANDLE_CLI_H
 
 
-#define BUFF_LENGHT 8192
+#define BUFF_LENGHT 16192
 
 typedef struct {
     char method[8];
@@ -18,5 +18,6 @@ typedef struct {
 void srv_handle_client();
 void parse_request();
 void http_response(int client_socket, int http_code, const char *content_type, const char *data);
+void http_binary_response(int socket, int code, const char *content_type, const char *data, size_t data_length);
 
 #endif

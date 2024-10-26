@@ -3,20 +3,21 @@ from locust import HttpUser, TaskSet, task, between
 class UserBehavior(TaskSet):
     @task
     def load_html_pages(self):
+        iterations = 5  # Número de veces que se harán las solicitudes para cada página
         
-        self.client.get("/html/web1/home.html")
-        self.client.get("/html/web1/about.html")
-        self.client.get("/html/web1/error.html")
-        
-        self.client.get("/html/web2/home.html")
-        self.client.get("/html/web2/about.html")
-        self.client.get("/html/web2/error.html")
-        
-        self.client.get("/html/web3/home.html")
-        self.client.get("/html/web3/about.html")
-        self.client.get("/html/web3/error.html")
-        # Agrega aquí las demás rutas a tus archivos HTML
+        for _ in range(iterations):
+            self.client.get("/web1/home.html")
+            self.client.get("/web1/about.html")
+            self.client.get("/web1/error.html")
+            
+            self.client.get("/web2/home.html")
+            self.client.get("/web2/about.html")
+            self.client.get("/web2/error.html")
+            
+            self.client.get("/web3/home.html")
+            self.client.get("/web3/about.html")
+            self.client.get("/web3/error.html")
 
-class htmlWebsiteUser(HttpUser):
+class HtmlWebsiteUser(HttpUser):
     tasks = [UserBehavior]
-    wait_time = between(1, 5)  # Tiempo de espera entre cada solicitud
+    wait_time = between(1, 5)

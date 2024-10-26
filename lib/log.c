@@ -12,10 +12,14 @@ void create_log(const char *logfile, const char *message, FILE *stream)
     //Se asigna memoria para la salida que tendra el log
     char *log_message = malloc(strlen(message) + 100);
 
+
     //Al mensaje recibido se le agrega fecha y hora del log
     sprintf(log_message, "[%d-%d-%d %d:%d:%d] %s\n", tm.tm_year + 1900, tm.tm_mon + 1, tm.tm_mday, tm.tm_hour, tm.tm_min, tm.tm_sec, message);
     //Se imprime el mensaje en el archivo de log
     fprintf(stream, "%s", log_message);
+    fprintf(stdout, "%s", log_message);
+    fflush(stdout);
+    
     free(log_message);
 }
 

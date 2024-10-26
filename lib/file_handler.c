@@ -11,15 +11,14 @@ typedef struct {
     char *mimetype;
 } MimeType;
 
-
-const MimeType mimetypes[] ={
+const MimeType mimetypes[] = {
     {"txt", "text/plain"},
     {"html", "text/html"},
     {"png", "image/png"},
     {"gif", "image/gif"},
     {"jpeg", "image/jpeg"},
-    {"css", "text/css"}
-}; 
+    {"jpg", "image/jpg"},
+    {"css", "text/css"}};
 
 char *get_file_contents(char *url, int *httpCode){
     FILE *f;
@@ -30,9 +29,12 @@ char *get_file_contents(char *url, int *httpCode){
     char path[256]= PATH;
 
     //Valida que la url no venga vacia, si viene vacia entonces muestra el index
-    if(strlen(url) == 0){
+    if (strlen(url) == 0 || strcmp(url, "/") == 0)
+    {
         strcat(path, "index.html");
-    }else{
+    }
+    else
+    {
         strcat(path, url);
     }
 
@@ -42,12 +44,9 @@ char *get_file_contents(char *url, int *httpCode){
 
     if(!f){
         *httpCode = 404;
-        log_error("Error al abrir el archivo1");
         strncpy(path, PATH, sizeof(PATH));
         strcat(path, "index.html");
         f = fopen(path, "r");
-
-        
 
         if(!f){
             log_error("Error al abrir el archivo2");
@@ -62,6 +61,7 @@ char *get_file_contents(char *url, int *httpCode){
         if(content == NULL){
             log_error("Buffer Vacio");
             free(buffer);
+            free(content);
             fclose(f);
             return NULL;
         }
@@ -76,11 +76,11 @@ char *get_file_contents(char *url, int *httpCode){
     *httpCode = 200;
     return content;
 }
-
 char *get_content_type(char *url){
 
-    if(url == NULL){
-        return mimetypes[0].mimetype;
+    if (url == NULL || strcmp(url, "/") == 0)
+    {
+        return mimetypes[1].mimetype;
     }
     log_event(url);
     char *sep = strrchr(url, '.');
@@ -90,14 +90,80 @@ char *get_content_type(char *url){
     }
 
     char *ext = sep+1;
-    log_event(ext);
+    //log_event(ext);
     for (int i =0; i < sizeof(mimetypes)/sizeof(MimeType); i++){
         if(strcmp(mimetypes[i].ext, ext) == 0){
-            //AGREGAR FUNCIONALIDAD PARA DEVOLVER EL MIMETYPE
+
             log_event(mimetypes[i].mimetype);
             return mimetypes[i].mimetype;
         }
     }
 
     return mimetypes[0].mimetype;
+}
+
+unsigned char *get_binary_file_contents(char *url, int *file_size, int *httpCode)
+{
+    FILE *f;
+    unsigned char *buffer;
+    char path[256] = PATH;
+
+
+    // Validar la URL y asignar el index.html si está vacía
+    if (strlen(url) == 0 || strcmp(url, "/") == 0)
+    {
+        strcat(path, "index.html");
+    }
+    else
+    {
+
+        strcat(path, url);
+
+    }
+    
+    // Intentar abrir el archivo en modo binario
+    f = fopen(path, "rb");
+
+    if (!f)
+    {
+        *httpCode = 404;
+        strncpy(path, PATH, sizeof(PATH));
+        strcat(path, "index.html");
+        f = fopen(path, "rb");
+
+        if (!f)
+        {
+            log_error("Error al abrir archivo binario");
+            return NULL;
+        }
+    }
+
+    // Obtener el tamaño del archivo
+    fseek(f, 0, SEEK_END);
+    *file_size = ftell(f);
+    fseek(f, 0, SEEK_SET);
+
+    // Reservar espacio para el contenido
+    buffer = malloc(*file_size);
+    if (buffer == NULL)
+    {
+        log_error("Error de memoria al leer archivo binario");
+        fclose(f);
+        return NULL;
+    }
+
+    // Leer el contenido completo en el buffer
+    size_t read_size = fread(buffer, 1, *file_size, f);
+    if (read_size != *file_size)
+    {
+        log_error("Error al leer el contenido completo del archivo binario");
+        free(buffer);
+        fclose(f);
+        return NULL;
+    }
+
+    fclose(f);
+
+    *httpCode = 200;
+    return buffer;
 }

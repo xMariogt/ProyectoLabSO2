@@ -3,7 +3,7 @@
 
 #define SA struct sockaddr
 #define SAI struct sockaddr_in
-#define LISTENQ 15
+#define LISTENQ 50
 
 
 int srv_init(int port);
