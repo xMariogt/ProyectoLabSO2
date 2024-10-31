@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <sys/socket.h>
 #include <arpa/inet.h>
+#include <unistd.h>
 #include "server_handle_cli.h"
 #include "log.h"
 #include "server_functions.h"
