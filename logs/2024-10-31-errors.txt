@@ -1,0 +1,33 @@
+[2024-10-31 13:52:11] Error al abrir el archivo1
+[2024-10-31 13:52:16] Error al abrir el archivo1
+[2024-10-31 13:52:21] Error al abrir el archivo1
+[2024-10-31 13:52:26] Error al abrir el archivo1
+[2024-10-31 13:52:31] Error al abrir el archivo1
+[2024-10-31 13:52:36] Error al abrir el archivo1
+[2024-10-31 13:52:41] Error al abrir el archivo1
+[2024-10-31 13:52:46] Error al abrir el archivo1
+[2024-10-31 13:52:51] Error al abrir el archivo1
+[2024-10-31 13:52:56] Error al abrir el archivo1
+[2024-10-31 13:53:1] Error al abrir el archivo1
+[2024-10-31 13:55:9] Error al recibir el mensaje: Bad file descriptor
+[2024-10-31 13:55:9] Error al recibir el mensaje: Bad file descriptor
+[2024-10-31 13:55:9] Error al recibir el mensaje: Connection reset by peer
+[2024-10-31 13:55:12] Error al recibir el mensaje: Bad file descriptor
+[2024-10-31 13:55:12] Error al recibir el mensaje: Socket operation on non-socket
+[2024-10-31 13:55:12] Error al recibir el mensaje: Socket operation on non-socket
+[2024-10-31 13:55:12] Error al recibir el mensaje: Bad file descriptor
+[2024-10-31 13:55:12] Error al recibir el mensaje: Bad file descriptor
+[2024-10-31 13:55:12] Error al recibir el mensaje: Bad file descriptor
+[2024-10-31 13:55:12] Error al recibir el mensaje: Connection reset by peer
+[2024-10-31 13:55:12] Error al recibir el mensaje: Connection reset by peer
+[2024-10-31 13:55:12] Error al recibir el mensaje: Connection reset by peer
+[2024-10-31 13:55:17] Error al recibir el mensaje: Connection reset by peer
+[2024-10-31 13:55:36] /web1/home.html
+[2024-10-31 13:55:36] Error al recibir el mensaje: Bad file descriptor
+[2024-10-31 13:55:36] Error al recibir el mensaje: Socket operation on non-socket
+[2024-10-31 13:55:36] Error al recibir el mensaje: Socket operation on non-socket
+[2024-10-31 13:55:37] Error al recibir el mensaje: Connection reset by peer
+[2024-10-31 13:55:37] Error al recibir el mensaje: Bad file descriptor
+[2024-10-31 13:55:37] Error al recibir el mensaje: Connection reset by peer
+[2024-10-31 13:55:37] Error al recibir el mensaje: Connection reset by peer
+[2024-10-31 13:55:37] Error al recibir el mensaje: Connection reset by peer

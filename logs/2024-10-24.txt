@@ -1,0 +1,219 @@
+[2024-10-24 11:51:37] El socket esta escuchando en el puerto: 8080
+
+[2024-10-24 11:51:49] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:51:49] El cliente 127.0.0.1:44796 solicita [/] con el metodo GET
+[2024-10-24 11:51:54] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:51:54] /favicon.ico
+[2024-10-24 11:51:54] El cliente 127.0.0.1:57712 solicita [/favicon.ico] con el metodo GET
+[2024-10-24 11:51:59] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:51:59] /web1/home.html
+[2024-10-24 11:51:59] text/html
+[2024-10-24 11:51:59] El cliente 127.0.0.1:57718 solicita [/web1/home.html] con el metodo GET
+[2024-10-24 11:52:4] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:52:4] /web1/background.jpg
+[2024-10-24 11:52:4] El cliente 127.0.0.1:57722 solicita [/web1/background.jpg] con el metodo GET
+[2024-10-24 11:52:9] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:52:9] /web1/js/script.js
+[2024-10-24 11:52:9] El cliente 127.0.0.1:57732 solicita [/web1/js/script.js] con el metodo GET
+[2024-10-24 11:52:14] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:52:14] /web1/css/styles.css
+[2024-10-24 11:52:14] text/css
+[2024-10-24 11:52:14] El cliente 127.0.0.1:43980 solicita [/web1/css/styles.css] con el metodo GET
+[2024-10-24 11:52:19] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:52:19] /favicon.ico
+[2024-10-24 11:52:19] El cliente 127.0.0.1:44498 solicita [/favicon.ico] con el metodo GET
+[2024-10-24 11:52:33] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:52:33] /web1/home.html
+[2024-10-24 11:52:33] text/html
+[2024-10-24 11:52:33] El cliente 127.0.0.1:58360 solicita [/web1/home.html] con el metodo GET
+[2024-10-24 11:52:38] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:52:38] /web1/background.jpg
+[2024-10-24 11:52:38] El cliente 127.0.0.1:58374 solicita [/web1/background.jpg] con el metodo GET
+[2024-10-24 11:52:43] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:52:43] /web1/js/script.js
+[2024-10-24 11:52:43] El cliente 127.0.0.1:58386 solicita [/web1/js/script.js] con el metodo GET
+[2024-10-24 11:52:48] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:52:48] /web1/css/styles.css
+[2024-10-24 11:52:48] text/css
+[2024-10-24 11:52:48] El cliente 127.0.0.1:47014 solicita [/web1/css/styles.css] con el metodo GET
+[2024-10-24 11:52:53] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:52:53] /favicon.ico
+[2024-10-24 11:52:53] El cliente 127.0.0.1:35614 solicita [/favicon.ico] con el metodo GET
+[2024-10-24 11:55:33] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:55:33] /web1/home.html
+[2024-10-24 11:55:33] text/html
+[2024-10-24 11:55:33] El cliente 127.0.0.1:40594 solicita [/web1/home.html] con el metodo GET
+[2024-10-24 11:55:38] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:55:38] /web1/background.jpg
+[2024-10-24 11:55:38] El cliente 127.0.0.1:40602 solicita [/web1/background.jpg] con el metodo GET
+[2024-10-24 11:55:43] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:55:43] /web1/js/script.js
+[2024-10-24 11:55:43] El cliente 127.0.0.1:40610 solicita [/web1/js/script.js] con el metodo GET
+[2024-10-24 11:55:48] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:55:48] /web1/css/styles.css
+[2024-10-24 11:55:48] text/css
+[2024-10-24 11:55:48] El cliente 127.0.0.1:49208 solicita [/web1/css/styles.css] con el metodo GET
+[2024-10-24 11:55:53] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:55:53] /web1/css/styles.css
+[2024-10-24 11:55:53] text/css
+[2024-10-24 11:55:53] El cliente 127.0.0.1:43710 solicita [/web1/css/styles.css] con el metodo GET
+[2024-10-24 11:55:58] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:55:58] /favicon.ico
+[2024-10-24 11:55:58] El cliente 127.0.0.1:43714 solicita [/favicon.ico] con el metodo GET
+[2024-10-24 11:58:5] El socket esta escuchando en el puerto: 8080
+
+[2024-10-24 11:58:10] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:58:10] /web1/home.html
+[2024-10-24 11:58:10] text/html
+[2024-10-24 11:58:10] El cliente 127.0.0.1:55530 solicita [/web1/home.html] con el metodo GET
+[2024-10-24 11:58:15] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:58:15] /web1/background.jpg
+[2024-10-24 11:58:15] El cliente 127.0.0.1:55538 solicita [/web1/background.jpg] con el metodo GET
+[2024-10-24 11:58:20] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:58:20] /web1/js/script.js
+[2024-10-24 11:58:20] El cliente 127.0.0.1:55554 solicita [/web1/js/script.js] con el metodo GET
+[2024-10-24 11:58:25] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:58:25] /web1/css/styles.css
+[2024-10-24 11:58:25] text/css
+[2024-10-24 11:58:25] El cliente 127.0.0.1:36488 solicita [/web1/css/styles.css] con el metodo GET
+[2024-10-24 11:58:30] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 11:58:30] /favicon.ico
+[2024-10-24 11:58:30] El cliente 127.0.0.1:53470 solicita [/favicon.ico] con el metodo GET
+[2024-10-24 14:28:33] El socket esta escuchando en el puerto: 8080
+
+[2024-10-24 14:28:35] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 14:28:35] /web1/home.html
+[2024-10-24 14:28:35] text/html
+[2024-10-24 14:28:35] El cliente 127.0.0.1:57898 solicita [/web1/home.html] con el metodo GET
+[2024-10-24 14:28:40] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 14:28:40] /web1/background.jpg
+[2024-10-24 14:28:40] El cliente 127.0.0.1:57900 solicita [/web1/background.jpg] con el metodo GET
+[2024-10-24 14:28:45] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 14:28:45] /web1/js/script.js
+[2024-10-24 14:28:45] El cliente 127.0.0.1:57910 solicita [/web1/js/script.js] con el metodo GET
+[2024-10-24 14:28:50] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 14:28:50] /web1/css/styles.css
+[2024-10-24 14:28:50] text/css
+[2024-10-24 14:28:50] El cliente 127.0.0.1:57924 solicita [/web1/css/styles.css] con el metodo GET
+[2024-10-24 14:28:55] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 14:28:55] /favicon.ico
+[2024-10-24 14:28:55] El cliente 127.0.0.1:52662 solicita [/favicon.ico] con el metodo GET
+[2024-10-24 14:32:14] El socket esta escuchando en el puerto: 8080
+
+[2024-10-24 14:32:23] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 14:32:23] /web2/home.html
+[2024-10-24 14:32:23] text/html
+[2024-10-24 14:32:23] El cliente 127.0.0.1:60356 solicita [/web2/home.html] con el metodo GET
+[2024-10-24 14:32:28] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 14:32:28] /web2/foodbyte.jpg
+[2024-10-24 14:32:28] El cliente 127.0.0.1:60372 solicita [/web2/foodbyte.jpg] con el metodo GET
+[2024-10-24 14:32:33] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 14:32:33] /web2/js/script.js
+[2024-10-24 14:32:33] El cliente 127.0.0.1:60382 solicita [/web2/js/script.js] con el metodo GET
+[2024-10-24 14:32:38] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 14:32:38] /web2/css/styles.css
+[2024-10-24 14:32:38] text/css
+[2024-10-24 14:32:38] El cliente 127.0.0.1:35578 solicita [/web2/css/styles.css] con el metodo GET
+[2024-10-24 14:32:43] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 14:32:43] /favicon.ico
+[2024-10-24 14:32:43] El cliente 127.0.0.1:38892 solicita [/favicon.ico] con el metodo GET
+[2024-10-24 14:35:45] El socket esta escuchando en el puerto: 8080
+
+[2024-10-24 14:35:47] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 14:35:47] /web2/home.html
+[2024-10-24 14:35:47] text/html
+[2024-10-24 14:35:47] El cliente 127.0.0.1:43982 solicita [/web2/home.html] con el metodo GET
+[2024-10-24 14:35:52] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 14:35:52] /web2/foodbyte.jpg
+[2024-10-24 14:35:52] El cliente 127.0.0.1:43996 solicita [/web2/foodbyte.jpg] con el metodo GET
+[2024-10-24 14:35:57] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 14:35:57] /web2/js/script.js
+[2024-10-24 14:35:57] El cliente 127.0.0.1:44002 solicita [/web2/js/script.js] con el metodo GET
+[2024-10-24 14:36:2] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 14:36:2] /web2/css/styles.css
+[2024-10-24 14:36:2] text/css
+[2024-10-24 14:36:2] El cliente 127.0.0.1:44008 solicita [/web2/css/styles.css] con el metodo GET
+[2024-10-24 14:36:7] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 14:36:7] /favicon.ico
+[2024-10-24 14:36:7] El cliente 127.0.0.1:60744 solicita [/favicon.ico] con el metodo GET
+[2024-10-24 14:41:36] El socket esta escuchando en el puerto: 8080
+
+[2024-10-24 14:41:38] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 14:41:38] /web2/home.html
+[2024-10-24 14:41:38] text/html
+[2024-10-24 14:41:38] El cliente 127.0.0.1:52492 solicita [/web2/home.html] con el metodo GET
+[2024-10-24 14:41:43] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 14:41:43] /favicon.ico
+[2024-10-24 14:41:43] El cliente 127.0.0.1:52498 solicita [/favicon.ico] con el metodo GET
+[2024-10-24 15:7:12] El socket esta escuchando en el puerto: 8080
+
+[2024-10-24 15:7:15] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:7:15] /web2/home.html
+[2024-10-24 15:7:15] text/html
+[2024-10-24 15:7:15] El cliente 127.0.0.1:51776 solicita [/web2/home.html] con el metodo GET
+[2024-10-24 15:15:0] El socket esta escuchando en el puerto: 8080
+
+[2024-10-24 15:15:3] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:15:3] /web2/home.html
+[2024-10-24 15:15:3] text/html
+[2024-10-24 15:15:3] El cliente 127.0.0.1:42936 solicita [/web2/home.html] con el metodo GET
+[2024-10-24 15:15:8] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:15:8] /web2/foodbyte.jpg
+[2024-10-24 15:15:8] image/jpg
+[2024-10-24 15:15:8] El cliente 127.0.0.1:42948 solicita [/web2/foodbyte.jpg] con el metodo GET
+[2024-10-24 15:15:13] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:15:13] /web2/js/script.js
+[2024-10-24 15:15:13] El cliente 127.0.0.1:42964 solicita [/web2/js/script.js] con el metodo GET
+[2024-10-24 15:15:18] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:15:18] /web2/css/styles.css
+[2024-10-24 15:15:18] text/css
+[2024-10-24 15:15:18] El cliente 127.0.0.1:42976 solicita [/web2/css/styles.css] con el metodo GET
+[2024-10-24 15:15:56] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:15:56] /web2/home.html
+[2024-10-24 15:15:56] text/html
+[2024-10-24 15:15:56] El cliente 127.0.0.1:49460 solicita [/web2/home.html] con el metodo GET
+[2024-10-24 15:16:1] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:16:1] /web2/foodbyte.jpg
+[2024-10-24 15:16:1] image/jpg
+[2024-10-24 15:16:1] El cliente 127.0.0.1:49466 solicita [/web2/foodbyte.jpg] con el metodo GET
+[2024-10-24 15:16:6] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:16:6] /web2/js/script.js
+[2024-10-24 15:16:6] El cliente 127.0.0.1:49480 solicita [/web2/js/script.js] con el metodo GET
+[2024-10-24 15:16:11] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:16:11] /web2/css/styles.css
+[2024-10-24 15:16:11] text/css
+[2024-10-24 15:16:11] El cliente 127.0.0.1:41720 solicita [/web2/css/styles.css] con el metodo GET
+[2024-10-24 15:16:40] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:16:40] /web2/home.html
+[2024-10-24 15:16:40] text/html
+[2024-10-24 15:16:40] El cliente 127.0.0.1:45948 solicita [/web2/home.html] con el metodo GET
+[2024-10-24 15:16:45] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:16:45] /web2/foodbyte.jpg
+[2024-10-24 15:16:45] image/jpg
+[2024-10-24 15:16:45] El cliente 127.0.0.1:45950 solicita [/web2/foodbyte.jpg] con el metodo GET
+[2024-10-24 15:16:50] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:16:50] /web2/js/script.js
+[2024-10-24 15:16:50] El cliente 127.0.0.1:45960 solicita [/web2/js/script.js] con el metodo GET
+[2024-10-24 15:16:55] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:16:55] /web2/css/styles.css
+[2024-10-24 15:16:55] text/css
+[2024-10-24 15:16:55] El cliente 127.0.0.1:45968 solicita [/web2/css/styles.css] con el metodo GET
+[2024-10-24 15:17:55] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:17:55] /web1/home.html
+[2024-10-24 15:17:55] text/html
+[2024-10-24 15:17:55] El cliente 127.0.0.1:49606 solicita [/web1/home.html] con el metodo GET
+[2024-10-24 15:18:0] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:18:0] /web1/background.jpg
+[2024-10-24 15:18:0] image/jpg
+[2024-10-24 15:18:0] El cliente 127.0.0.1:49618 solicita [/web1/background.jpg] con el metodo GET
+[2024-10-24 15:18:5] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:18:5] /web1/js/script.js
+[2024-10-24 15:18:5] El cliente 127.0.0.1:49634 solicita [/web1/js/script.js] con el metodo GET
+[2024-10-24 15:18:10] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:18:10] /web1/css/styles.css
+[2024-10-24 15:18:10] text/css
+[2024-10-24 15:18:10] El cliente 127.0.0.1:49866 solicita [/web1/css/styles.css] con el metodo GET
+[2024-10-24 15:18:28] Se ha aceptado una conexion desde 127.0.0.1
+[2024-10-24 15:18:28] /web1/css/styles.css
+[2024-10-24 15:18:28] text/css
+[2024-10-24 15:18:28] El cliente 127.0.0.1:36438 solicita [/web1/css/styles.css] con el metodo GET

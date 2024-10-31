@@ -1,0 +1,236 @@
+[2024-10-26 10:24:40] /web1/home.html
+[2024-10-26 10:24:40] ./html/
+[2024-10-26 10:24:40] /web1/home.html
+[2024-10-26 10:24:40] ./html//web1/home.html
+[2024-10-26 10:24:40] Error al recibir el mensaje
+[2024-10-26 10:24:40] /web1/css/styles.css
+[2024-10-26 10:24:40] ./html/
+[2024-10-26 10:24:40] /web1/css/styles.css
+[2024-10-26 10:24:40] ./html//web1/css/styles.css
+[2024-10-26 10:24:40] /web1/js/script.js
+[2024-10-26 10:24:40] ./html/
+[2024-10-26 10:24:40] /web1/js/script.js
+[2024-10-26 10:24:40] ./html//web1/js/script.js
+[2024-10-26 10:24:40] Error al recibir el mensaje
+[2024-10-26 10:27:32] antes
+[2024-10-26 10:27:32] ./html
+[2024-10-26 10:27:32] /web1/home.html
+[2024-10-26 10:27:32] despues
+[2024-10-26 10:27:32] ./html/web1/home.html
+[2024-10-26 10:27:32] Error al recibir el mensaje
+[2024-10-26 10:27:33] antes
+[2024-10-26 10:27:33] ./html
+[2024-10-26 10:27:33] /web1/css/styles.css
+[2024-10-26 10:27:33] despues
+[2024-10-26 10:27:33] ./html/web1/css/styles.css
+[2024-10-26 10:27:33] antes
+[2024-10-26 10:27:33] ./html
+[2024-10-26 10:27:33] /web1/js/script.js
+[2024-10-26 10:27:33] despues
+[2024-10-26 10:27:33] ./html/web1/js/script.js
+[2024-10-26 10:27:33] Error al recibir el mensaje
+[2024-10-26 10:30:30] Error al recibir el mensaje
+[2024-10-26 10:30:30] antes
+[2024-10-26 10:30:30] ./html
+[2024-10-26 10:30:30] /web1/background.jpg
+[2024-10-26 10:30:30] despues
+[2024-10-26 10:30:30] ./html/web1/background.jpg
+[2024-10-26 10:30:30] Error al recibir el mensaje
+[2024-10-26 10:31:41] antes
+[2024-10-26 10:31:41] ./html
+[2024-10-26 10:31:41] /web1/home.html
+[2024-10-26 10:31:41] despues
+[2024-10-26 10:31:41] ./html/web1/home.html
+[2024-10-26 10:31:41] Error al recibir el mensaje
+[2024-10-26 10:31:41] antes
+[2024-10-26 10:31:41] ./html
+[2024-10-26 10:31:41] /web1/css/styles.css
+[2024-10-26 10:31:41] despues
+[2024-10-26 10:31:41] ./html/web1/css/styles.css
+[2024-10-26 10:31:41] Error al recibir el mensaje
+[2024-10-26 10:31:41] antes
+[2024-10-26 10:31:41] ./html
+[2024-10-26 10:31:41] /web1/js/script.js
+[2024-10-26 10:31:41] despues
+[2024-10-26 10:31:41] ./html/web1/js/script.js
+[2024-10-26 10:31:41] Error al recibir el mensaje
+[2024-10-26 10:31:48] antes
+[2024-10-26 10:31:48] ./html
+[2024-10-26 10:31:48] /web2/home.html
+[2024-10-26 10:31:48] despues
+[2024-10-26 10:31:48] ./html/web2/home.html
+[2024-10-26 10:31:48] antes
+[2024-10-26 10:31:48] ./html
+[2024-10-26 10:31:48] /web2/home.html
+[2024-10-26 10:31:48] despues
+[2024-10-26 10:31:48] ./html/web2/home.html
+[2024-10-26 10:31:48] antes
+[2024-10-26 10:31:48] ./html
+[2024-10-26 10:31:48] /web2/css/styles.css
+[2024-10-26 10:31:48] despues
+[2024-10-26 10:31:48] ./html/web2/css/styles.css
+[2024-10-26 10:31:48] antes
+[2024-10-26 10:31:48] ./html
+[2024-10-26 10:31:48] /web2/js/script.js
+[2024-10-26 10:31:48] despues
+[2024-10-26 10:31:48] ./html/web2/js/script.js
+[2024-10-26 10:32:30] antes
+[2024-10-26 10:32:30] ./html
+[2024-10-26 10:32:30] /web2/js/script.js
+[2024-10-26 10:32:30] despues
+[2024-10-26 10:32:30] ./html/web2/js/script.js
+[2024-10-26 10:32:36] antes
+[2024-10-26 10:32:36] ./html
+[2024-10-26 10:32:36] /web1/home.html
+[2024-10-26 10:32:36] despues
+[2024-10-26 10:32:36] ./html/web1/home.html
+[2024-10-26 10:32:36] Error al recibir el mensaje
+[2024-10-26 10:32:36] antes
+[2024-10-26 10:32:36] ./html
+[2024-10-26 10:32:36] /web1/css/styles.css
+[2024-10-26 10:32:36] despues
+[2024-10-26 10:32:36] ./html/web1/css/styles.css
+[2024-10-26 10:32:36] antes
+[2024-10-26 10:32:36] ./html
+[2024-10-26 10:32:36] /web1/js/script.js
+[2024-10-26 10:32:36] despues
+[2024-10-26 10:32:36] ./html/web1/js/script.js
+[2024-10-26 10:32:36] Error al recibir el mensaje
+[2024-10-26 10:32:36] antes
+[2024-10-26 10:32:36] ./html
+[2024-10-26 10:32:36] /favicon.ico
+[2024-10-26 10:32:36] despues
+[2024-10-26 10:32:36] ./html/favicon.ico
+[2024-10-26 10:32:36] antes
+[2024-10-26 10:32:36] Error al abrir archivo binario
+[2024-10-26 10:32:36] ./html
+[2024-10-26 10:32:36] /favicon.ico
+[2024-10-26 10:32:36] despues
+[2024-10-26 10:32:36] ./html/favicon.ico
+[2024-10-26 10:32:36] Error al abrir archivo binario
+[2024-10-26 10:32:36] Error al recibir el mensaje
+[2024-10-26 10:32:36] Error al recibir el mensaje
+[2024-10-26 10:33:37] antes
+[2024-10-26 10:33:37] ./html
+[2024-10-26 10:33:37] /web1/css/styles.css
+[2024-10-26 10:33:37] despues
+[2024-10-26 10:33:37] ./html/web1/css/styles.css
+[2024-10-26 10:33:37] Error al recibir el mensaje
+[2024-10-26 10:35:15] Error al recibir el mensaje
+[2024-10-26 10:35:15] Error al recibir el mensaje
+[2024-10-26 10:35:15] Error al abrir el archivo2
+[2024-10-26 10:35:15] Error al abrir el archivo2
+[2024-10-26 10:35:15] Error al abrir el archivo2
+[2024-10-26 10:35:15] Error al recibir el mensaje
+[2024-10-26 10:38:53] Error al abrir archivo binario
+[2024-10-26 10:38:53] Error al recibir el mensaje
+[2024-10-26 10:39:18] Error al abrir archivo binario
+[2024-10-26 10:39:18] Error al recibir el mensaje
+[2024-10-26 10:39:23] Error al recibir el mensaje
+[2024-10-26 10:44:47] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 10:46:57] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 10:47:5] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 10:47:5] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 10:47:5] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 10:48:41] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 10:48:41] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 10:52:52] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 10:52:52] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 10:52:52] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 10:53:15] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 10:56:21] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 10:56:36] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 10:56:36] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 10:56:36] Error al recibir el mensaje: Connection reset by peer
+[2024-10-26 10:56:44] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 10:56:44] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:42] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:42] Error al recibir el mensaje: Connection reset by peer
+[2024-10-26 11:31:42] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:42] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:42] Error al recibir el mensaje: Connection reset by peer
+[2024-10-26 11:31:42] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:43] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:43] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:43] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:43] Error al recibir el mensaje: Connection reset by peer
+[2024-10-26 11:31:43] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:43] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:43] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:43] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:43] Error al recibir el mensaje: Connection reset by peer
+[2024-10-26 11:31:43] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:43] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:43] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:43] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:43] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:43] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:44] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:44] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:44] Error al recibir el mensaje: Connection reset by peer
+[2024-10-26 11:31:44] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:44] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:44] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:44] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:44] Error al recibir el mensaje: Connection reset by peer
+[2024-10-26 11:31:44] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:44] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:44] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:44] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:44] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:45] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:45] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:45] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:45] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:46] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:46] Error al abrir el archivo2
+[2024-10-26 11:31:46] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:46] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:46] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:47] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:47] Error al recibir el mensaje: Connection reset by peer
+[2024-10-26 11:31:47] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:48] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:48] Error al abrir el archivo2
+[2024-10-26 11:31:48] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:48] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:48] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:49] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:49] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:52] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:52] Error al recibir el mensaje: Connection reset by peer
+[2024-10-26 11:31:52] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:53] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:53] Error al abrir el archivo2
+[2024-10-26 11:31:53] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:53] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:54] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:54] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:56] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:56] Error al recibir el mensaje: Connection reset by peer
+[2024-10-26 11:31:56] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:58] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:58] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:31:58] Error al abrir el archivo2
+[2024-10-26 11:31:58] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:32:11] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:32:11] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:32:38] Error al recibir el mensaje: Connection reset by peer
+[2024-10-26 11:33:2] Error al recibir el mensaje: Connection reset by peer
+[2024-10-26 11:33:11] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:33:57] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:33:57] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:33:57] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:34:6] Error al recibir el mensaje: Connection reset by peer
+[2024-10-26 11:34:6] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:34:6] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:34:6] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:34:6] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:34:9] Error al recibir el mensaje: Connection reset by peer
+[2024-10-26 11:39:56] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:39:56] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:40:8] Error al recibir el mensaje: Connection reset by peer
+[2024-10-26 11:40:8] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:40:8] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:40:9] Error al recibir el mensaje: Bad file descriptor
+[2024-10-26 11:40:9] Error al recibir el mensaje: Bad file descriptor
